@@ -37,7 +37,7 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/arslanyaseen"><img src="https://img.shields.io/badge/-Arslan%20Yaseen-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/arslanyaseendev"><img src="https://img.shields.io/badge/-Arslan%20Yaseen-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:arslanbhatti007yra@gmail.com"><img src="https://img.shields.io/badge/-arslanbhatti007yra@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/ArslanYaseen"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/ArslanYaseen94"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
